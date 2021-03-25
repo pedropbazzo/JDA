@@ -1,4 +1,4 @@
-[version]: https://api.bintray.com/packages/dv8fromtheworld/maven/JDA/images/download.svg
+[version]: https://api.bintray.com/packages/dv8fromtheworld/maven/JDA/images/download.svg 
 [download]: https://bintray.com/dv8fromtheworld/maven/JDA/_latestVersion
 [discord-invite]: https://discord.gg/0hMr4ce0tIl3SLv5
 [migration]: https://github.com/DV8FromTheWorld/JDA/wiki/0\)-Migrating-to-V4
